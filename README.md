@@ -1,6 +1,6 @@
  # Phishing Detector API
 
- This project is a FastAPI-based phishing email detection service powered by a Transformer model built in PyTorch (more info on the model [text](https://github.com/H1548/TransformerModel-PhishingDetector)). The API accepts email text/string as input, predicts whether the message is phishing-related, and returns structured advice such as recommended action, and user advice.
+ This project is a FastAPI-based phishing email detection service powered by a Transformer model built in PyTorch (more info on the model [Transformer-based Phishing Detector](https://github.com/H1548/TransformerModel-PhishingDetector)). The API accepts email text/string as input, predicts whether the message is phishing-related, and returns structured advice such as recommended action, and user advice.
 
  ## Motivation
 
