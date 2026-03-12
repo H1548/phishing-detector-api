@@ -52,7 +52,7 @@ Phishing-Detector-api/
 4. Start the FastAPI server
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/H1548/phishing-detector-api.git
 cd phishing-detector-api
 python -m venv venv
 venv\Scripts\activate
